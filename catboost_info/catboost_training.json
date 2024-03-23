@@ -3,7 +3,7 @@
 "iterations":[
 {"learn":[14.005006],"iteration":0,"passed_time":0.001771980044,"remaining_time":0.1754260243},
 {"learn":[13.14441192],"iteration":1,"passed_time":0.00341279304,"remaining_time":0.167226859},
-{"learn":[12.34258257],"iteration":2,"passed_time":0.004942053502,"remaining_time":0.1597930632},
+{"learn":[12.34258257],"iteration":2,"passed_time":0.004942053502,"remaining_time":0.1597930632}, 
 {"learn":[11.64527793],"iteration":3,"passed_time":0.006180781,"remaining_time":0.148338744},
 {"learn":[11.02766183],"iteration":4,"passed_time":0.007922158473,"remaining_time":0.150521011},
 {"learn":[10.43485794],"iteration":5,"passed_time":0.009720855874,"remaining_time":0.1522934087},
