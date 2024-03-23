@@ -47,7 +47,7 @@ male,group D,associate's degree,free/reduced,none,90,87,75
 female,group E,high school,standard,completed,59,63,75
 male,group D,high school,free/reduced,none,74,70,69
 female,group C,high school,standard,none,29,29,30
-male,group D,some high school,standard,completed,89,88,82
+male,group D,some high school,standard,completed,89,88,82 
 female,group A,high school,standard,completed,75,82,79
 male,group B,some college,standard,completed,71,75,70
 female,group D,associate's degree,standard,none,64,76,74
